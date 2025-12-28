@@ -10,7 +10,7 @@
 ---
 
 ## 🚀 Overview
-**Medical Chatbot** is an AI-powered assistant designed to answer medical-related questions using PDFs as a source of truth. It combines **vector search**, **retrieval-augmented generation (RAG)**, and **large language models** to provide concise, context-aware answers.  
+**Medical Chatbot** is an AI-powered assistant designed to answer medical-related questions using Medical PDFs as a source of truth. It combines **vector search**, **retrieval-augmented generation (RAG)**, and **large language models** to provide concise, context-aware answers.  
 
 This project demonstrates **full-stack AI engineering, scalable deployment, and modular code design** — perfect for showcasing technical skills to recruiters.
 
@@ -43,10 +43,9 @@ This project demonstrates **full-stack AI engineering, scalable deployment, and 
 ## 💻 Screenshots / Demo
 
 - **Chat Interface:**  
- ![Homepage](screenshots/homepage.png)
+![Welcome Page](assets/Screenshot1.png)
 
 - **Example Q&A:**  
-![Welcome Page](assets/Screenshot1.png)
 ![Sample Question 1](assets/Screenshot2.png)
 ![Sample Question 2](assets/Screenshot3.png)
 
